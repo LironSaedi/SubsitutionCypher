@@ -1,0 +1,13 @@
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\bin\Debug\netcoreapp3.1\LironSubstitutionCipher.exe
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\bin\Debug\netcoreapp3.1\LironSubstitutionCipher.deps.json
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\bin\Debug\netcoreapp3.1\LironSubstitutionCipher.runtimeconfig.json
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\bin\Debug\netcoreapp3.1\LironSubstitutionCipher.runtimeconfig.dev.json
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\bin\Debug\netcoreapp3.1\LironSubstitutionCipher.dll
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\bin\Debug\netcoreapp3.1\LironSubstitutionCipher.pdb
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\obj\Debug\netcoreapp3.1\LironSubstitutionCipher.csprojAssemblyReference.cache
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\obj\Debug\netcoreapp3.1\LironSubstitutionCipher.AssemblyInfoInputs.cache
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\obj\Debug\netcoreapp3.1\LironSubstitutionCipher.AssemblyInfo.cs
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\obj\Debug\netcoreapp3.1\LironSubstitutionCipher.csproj.CoreCompileInputs.cache
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\obj\Debug\netcoreapp3.1\LironSubstitutionCipher.dll
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\obj\Debug\netcoreapp3.1\LironSubstitutionCipher.pdb
+C:\Users\Liron.Saedi\source\repos\LironSubstitutionCipher\LironSubstitutionCipher\obj\Debug\netcoreapp3.1\LironSubstitutionCipher.genruntimeconfig.cache

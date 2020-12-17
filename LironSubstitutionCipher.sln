@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LironSubstitutionCipher", "LironSubstitutionCipher\LironSubstitutionCipher.csproj", "{016B0AC5-7A2D-4D2E-9DD6-9C698C2D94A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{016B0AC5-7A2D-4D2E-9DD6-9C698C2D94A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{016B0AC5-7A2D-4D2E-9DD6-9C698C2D94A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{016B0AC5-7A2D-4D2E-9DD6-9C698C2D94A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{016B0AC5-7A2D-4D2E-9DD6-9C698C2D94A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78762BFE-1481-4B8A-B2BE-075B04D0985D}
+	EndGlobalSection
+EndGlobal
